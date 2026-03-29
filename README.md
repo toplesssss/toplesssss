@@ -1,16 +1,66 @@
-## Hi there 👋
+# 👋 Hi there, I'm Toples
 
-<!--
-**toplesssss/toplesssss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Paper](https://img.shields.io/badge/Paper-1.20+-blue?logo=paper)](https://papermc.io/)
+[![Java](https://img.shields.io/badge/Java-21-orange)](https://adoptium.net/)
+[![GitHub followers](https://img.shields.io/github/followers/toplesssss?label=Follow&style=social)](https://github.com/toplesssss)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+I'm a **Minecraft plugin developer** and **technical administrator** with over **5 years of experience**.  
+I build high‑quality, performance‑friendly plugins that enhance roleplay and gameplay communities.  
+When I'm not coding, I optimize servers, manage databases, and help communities grow.
+
+- 🔭 I’m currently working on **[SocialBonds](https://github.com/toplesssss/SocialBonds)** – a social interaction plugin for RP servers  
+- 🌱 I’m currently learning **Kotlin** and **advanced database optimization**  
+- 👯 I’m looking to collaborate on **open‑source Minecraft projects**  
+- 💬 Ask me about **plugin development, PaperMC, database tuning, or server administration**  
+- 📫 How to reach me: **Discord – `toples`** or via [GitHub Issues](https://github.com/toplesssss)  
+- 😄 Pronouns: **he/him**  
+- ⚡ Fun fact: I’ve managed servers with **200+ concurrent players** and built over **10 custom plugins** from scratch!
+
+---
+
+### 🚀 Featured Project
+
+#### [SocialBonds](https://github.com/toplesssss/SocialBonds)  
+A fully‑featured social interaction plugin for Minecraft roleplay servers.  
+**Gestures · Promises · Rumors · Reputation · Titles · Multilingual · PlaceholderAPI support**
+
+![GitHub stars](https://img.shields.io/github/stars/toplesssss/SocialBonds?style=social)  
+![GitHub downloads](https://img.shields.io/github/downloads/toplesssss/SocialBonds/total)
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Tools |
+|----------|-------|
+| **Languages** | Java, Kotlin, Python, Bash |
+| **Minecraft APIs** | Paper, Spigot, Bukkit |
+| **Databases** | MySQL, SQLite, HikariCP |
+| **Build Tools** | Gradle, Maven |
+| **Server Admin** | Linux (Ubuntu/CentOS), Docker, Nginx, Pterodactyl Panel |
+| **Integrations** | PlaceholderAPI, ProtocolLib, Vault, LuckPerms |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=toplesssss&show_icons=true&theme=radical" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toplesssss&layout=compact&theme=radical" height="170">
+</div>
+
+---
+
+### 🌍 Let's Connect
+
+- 🔗 **SpigotMC**: [Toples](https://www.spigotmc.org/members/toples.123456/)  
+- 💬 **Discord**: `toples`  
+- 🐙 **GitHub**: [toplesssss](https://github.com/toplesssss)  
+
+---
+
+*“Code is poetry, and every plugin tells a story.”*
