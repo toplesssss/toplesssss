@@ -13,11 +13,9 @@ I build high‑quality, performance‑friendly plugins that enhance roleplay and
 When I'm not coding, I optimize servers, manage databases, and help communities grow.
 
 - 🔭 I’m currently working on **[SocialBonds](https://github.com/toplesssss/SocialBonds)** – a social interaction plugin for RP servers  
-- 🌱 I’m currently learning **Kotlin** and **advanced database optimization**  
-- 👯 I’m looking to collaborate on **open‑source Minecraft projects**  
+- 🌱 I’m currently learning **Java** and **advanced database optimization**  
 - 💬 Ask me about **plugin development, PaperMC, database tuning, or server administration**  
 - 📫 How to reach me: **Discord – `tplsss`** or via [GitHub Issues](https://github.com/toplesssss)  
-- 😄 Pronouns: **he/him**  
 - ⚡ Fun fact: I’ve managed servers with **200+ concurrent players** and built over **10 custom plugins** from scratch!
 
 ---
