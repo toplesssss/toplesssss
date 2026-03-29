@@ -16,7 +16,6 @@ When I'm not coding, I optimize servers, manage databases, and help communities 
 - 🌱 I’m currently learning **Java** and **advanced database optimization**  
 - 💬 Ask me about **plugin development, PaperMC, database tuning, or server administration**  
 - 📫 How to reach me: **Discord – `tplsss`** or via [GitHub Issues](https://github.com/toplesssss)  
-- ⚡ Fun fact: I’ve managed servers with **200+ concurrent players** and built over **10 custom plugins** from scratch!
 
 ---
 
