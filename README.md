@@ -57,8 +57,8 @@ A fully‑featured social interaction plugin for Minecraft roleplay servers.
 
 ### 🌍 Let's Connect
 
-- 🔗 **SpigotMC**: [Toples](https://www.spigotmc.org/members/toples.123456/)  
-- 💬 **Discord**: `toples`  
+- 🔗 **SpigotMC**: [toples]([https://www.spigotmc.org/members/toples.123456/](https://www.spigotmc.org/members/thedavka.1386530/))  
+- 💬 **Discord**: `tplsss`  
 - 🐙 **GitHub**: [toplesssss](https://github.com/toplesssss)  
 
 ---
